@@ -36,31 +36,6 @@
 
 ## Folder Structure
 
-/public
-/images
-/helpers
-api-utils.js (utility functions for fetching events)
-/components
-/event-detail
-Event details components
-/events
-Components for events and featured events page
-/icons
-Custom icons used across the app
-/input
-Comment input components
-/layout
-Layout and header components
-/ui
-Utility components (buttons, modals, etc.)
-/pages
-index.js (Featured Events page)
-events.js (All Events page)
-[slug].js (Event Detail page)
-[...slug].js (Catch-All Route for filtered events)
-/styles
-Global styles and component-specific styling
-
 ## API Routes
 
 - **`/api/comments/[commentId]`**: Handles fetching and submitting comments for each event detail page, interacting with Firebase as the backend.
