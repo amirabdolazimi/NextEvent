@@ -13,10 +13,14 @@
 
 ## Tech Stack
 
-- **Next.js**: For routing, SSR/SSG/ISR, and API routes.
-- **React**: For component-based architecture.
-- **Firebase**: For storing and serving data (events and comments).
-- **CSS/SCSS**: For styling.
+
+
+
+
+- **Next.js** ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white): For routing, SSR/SSG/ISR, and API routes.
+- **React** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) : For component-based architecture.
+- **Firebase** ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase): For storing and serving data (events and comments).
+- **CSS/CSS Module** ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white): For styling.
 
 ## Pages
 
