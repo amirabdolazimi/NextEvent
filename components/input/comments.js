@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
-import CommentList from "./comment-list";
-import NewComment from "./New-comment";
+import CommentList from "../../components/input/comment-list";
+import NewComment from "../../components/input/new-comment";
 import classes from "./comments.module.css";
 
 function Comments(props) {
