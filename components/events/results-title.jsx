@@ -1,5 +1,5 @@
 import classes from "./results-title.module.css";
-import Button from "../ui/Button";
+import Button from "../ui/button";
 function ResultsTitle(props) {
   const { date } = props;
 
