@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import EventItem from "./event-item";
+import EventItem from "../../components/events/event-item";
 import classes from "./event-list.module.css";
 const EventList = (props) => {
   const { items } = props;
